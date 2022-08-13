@@ -1,0 +1,24 @@
+﻿team,color1,color2,color3,logo,full
+Arsenal,#EF0107,#063672,#9C824A,https://upload.wikimedia.org/wikipedia/hif/8/82/Arsenal_FC.png,Arsenal
+Aston Villa,#95BFE5,#670E36,#FEE505,https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/1200px-Aston_Villa_FC_crest_%282016%29.svg.png,AstonVilla
+Brentford,#e30613,#fbb800,Black,https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/640px-Brentford_FC_crest.svg.png,Brentford
+Brighton,#0057B8,white,#FFCD00,https://upload.wikimedia.org/wikipedia/sco/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png,Brighton
+Burnley,#6C1D45,#99D6EA,#F0B323,https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/1200px-Burnley_F.C._Logo.svg.png,Burnley
+Chelsea,#034694,#EE242C,#DBA111,https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png,Chelsea
+Crystal Palace,#1B458F,#A7A5A6,#C4122E,https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png,CrystalPalace
+Everton,#003399,white,white,https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png,Everton
+Leeds United,#FFCD00,#1D428A,#AC944D,https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1024px-Leeds_United_F.C._logo.svg.png,LeedsUnited
+Leicester City,#003090,#FDBE11,white,https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/360px-Leicester_City_crest.svg.png,LeicesterCity
+Liverpool,#C8102E,#00B2A9,#F6EB61,https://upload.wikimedia.org/wikipedia/hif/b/bd/Liverpool_FC.png,Liverpool
+Manchester City,#6CABDD,#1C2C5B,#FFC659,https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/1024px-Manchester_City_FC_badge.svg.png,ManchesterCity
+Manchester Utd,#DA291C,#FBE122,white,https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png?20150523185345,ManchesterUtd
+Newcastle Utd,#241F20,white,#41B6E6,https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png,NewcastleUtd
+Norwich City,#FFF200,#00A650,black,https://upload.wikimedia.org/wikipedia/en/4/4b/Norwich_City_Crest_%282022%29.png,NorwichCity
+Southampton,#D71920,#130C0E,#FFC20E,https://upload.wikimedia.org/wikipedia/hif/8/85/FC_Southampton.png,Southampton
+Tottenham,#132257,white,white,https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png,Tottenham
+Watford,#FBEE23,#ED2127,black,https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png,Watford
+West Ham,#7A263A,#1BB1E7,#F3D459,https://upload.wikimedia.org/wikipedia/sco/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png,WestHam
+Wolves,#FDB913,#231F20,white,https://upload.wikimedia.org/wikipedia/sco/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png,Wolves
+Nott'ham Forest,#DD0000,white,white,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nottingham_Forest_logo.png/540px-Nottingham_Forest_logo.png?20210714073251,Nott'hamForest
+Fulham,black,#CC0000,white,https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png,Fulham
+Bournemouth,#DA291C,black,#B50E12,https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png,Bournemouth
